@@ -1,3 +1,7 @@
+:root{
+    --background-color: #564b42;
+    --text-color: #050505;
+
 * {
 box-sizing: border-box;
 font-family: Arial, sans-serif;
