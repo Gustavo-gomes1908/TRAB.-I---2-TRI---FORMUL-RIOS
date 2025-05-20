@@ -57,3 +57,14 @@ button:hover {
 --text-color: #black;
 
 }
+body, html{
+    height: 100%;
+    margin:0;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
